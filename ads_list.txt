@@ -1,6 +1,8 @@
 ! List: NoADS_RU (2020-2023)
 ! Author: Zalexanninev15
 ! License: MIT
+! Title:RU NoADS list from Zalexanninev15
+!==============================================================================
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
 !! Telegram group: https://t.me/noads_ru
 !! Donate: https://zalexanninev15-donate.pfm.live
